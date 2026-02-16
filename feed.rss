@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>용답동 퀵서비스 | 24시 에이플러스 신속한 배송</title>
+  <link>https://yongdap.8222quick.com/</link>
+  <description>성동구 용답동 용답역 답십리역 매매단지 24시 실시간 배차, 신속한 배송 원칙</description>
+  <language>ko-KR</language>
+  <pubDate>Mon, 16 Feb 2026 12:45:00 +0900</pubDate>
+  <lastBuildDate>Mon, 16 Feb 2026 12:45:00 +0900</lastBuildDate>
+  <atom:link href="https://yongdap.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>용답동 퀵서비스 매매단지 및 역세권 신속한 배송 안내</title>
+    <link>https://yongdap.8222quick.com/index.html</link>
+    <description>용답동 전지역 오토바이, 다마스, 라보 퀵서비스. 중고차 매매단지 및 상가 전담 신속한 배송 보장.</description>
+    <category>퀵서비스</category>
+    <pubDate>Mon, 16 Feb 2026 12:45:00 +0900</pubDate>
+    <guid>https://yongdap.8222quick.com/index.html</guid>
+  </item>
+
+  <item>
+    <title>용답동 퀵서비스 표준 요금표 및 법인 서비스</title>
+    <link>https://yongdap.8222quick.com/money.html</link>
+    <description>용답동 퀵서비스 차종별 상세 요금 및 기업용 세금계산서 발행 시스템 안내</description>
+    <category>요금안내</category>
+    <pubDate>Mon, 16 Feb 2026 12:45:00 +0900</pubDate>
+    <guid>https://yongdap.8222quick.com/money.html</guid>
+  </item>
+</channel>
+</rss>
